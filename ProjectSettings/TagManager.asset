@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Setting
+  - Master
+  - Target
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - MenuLayer
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: MenuLayer
+    uniqueID: 3815232699
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
